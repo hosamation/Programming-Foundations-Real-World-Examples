@@ -1,5 +1,4 @@
 # Programming Foundations: Real-World Examples
-
 03 [Programming Foundations: Real-World Examples](https://www.linkedin.com/learning/programming-foundations-real-world-examples) Course
 
 Check Become a Programmer: Foundations [Progress](https://github.com/hosamation/Become-a-Programmer-Foundations)
